@@ -107,24 +107,29 @@ while True:
         break
 im.release()
 cv2.destroyAllWindows()
+
+
 ```
+
+
 ## Output
 
 ### i) Write the frame as JPG image
-![](pic.png)
+![github logo](pic.png)
 
 
 ### ii) Display the video
-![](pic1.png)
+![github logo](pic1.png)
+
 
 
 ### iii) Display the video by resizing the window
-![](pic2.png)
+![github logo](pic2.png)
 
 
 
 ### iv) Rotate and display the video
-![](pic3.png)
+![github logo](pic3.png)
 
 
 
